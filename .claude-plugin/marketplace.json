@@ -1,0 +1,11 @@
+{
+  "name": "navistau",
+  "owner": {
+    "name": "navistau"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Navist",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
