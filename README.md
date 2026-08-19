@@ -11,10 +11,8 @@ claude plugin marketplace add navistau/claude-marketplace
 Then install plugins from it — they appear as `<name>@navistau`. The
 plugin list lives in `.claude-plugin/marketplace.json`.
 
-## install-gh-release.sh
-
-Shared helper that plugin hooks fetch to download release binaries from
-GitHub Releases.
+This repository contains only the marketplace manifest (plugin catalog);
+no scripts or executables ship from this repository.
 
 ## License
 
