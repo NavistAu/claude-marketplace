@@ -7,5 +7,25 @@
     "description": "Claude Code plugins by Navist",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "stenographer",
+      "source": {
+        "source": "github",
+        "repo": "navistau/claude-stenographer",
+        "path": "plugin"
+      },
+      "version": "0.4.0",
+      "description": "Search past Claude Code conversation history \u2014 find decisions, context, and rationale from earlier sessions",
+      "homepage": "https://github.com/navistau/claude-stenographer",
+      "repository": "https://github.com/navistau/claude-stenographer",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "search",
+        "conversation-history",
+        "memory"
+      ]
+    }
+  ]
 }
