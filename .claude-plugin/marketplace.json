@@ -26,6 +26,44 @@
         "conversation-history",
         "memory"
       ]
+    },
+    {
+      "name": "tmux-bridge",
+      "source": {
+        "source": "github",
+        "repo": "navistau/claude-tmux-bridge",
+        "path": "plugin"
+      },
+      "version": "2.0.0",
+      "description": "Work alongside Claude in your tmux panes \u2014 shared-workspace CLI (tb) with a scope/grant/freshness security model and a secrets vault",
+      "homepage": "https://github.com/navistau/claude-tmux-bridge",
+      "repository": "https://github.com/navistau/claude-tmux-bridge",
+      "license": "AGPL-3.0-only",
+      "keywords": [
+        "claude-code",
+        "tmux",
+        "terminal",
+        "shared-workspace"
+      ]
+    },
+    {
+      "name": "tmux-director",
+      "source": {
+        "source": "github",
+        "repo": "navistau/claude-tmux-director",
+        "path": "plugin"
+      },
+      "version": "0.1.0",
+      "description": "Label-addressed tmux fleet topology \u2014 td creates, lists, and culls sessions/windows/panes by stable paths",
+      "homepage": "https://github.com/navistau/claude-tmux-director",
+      "repository": "https://github.com/navistau/claude-tmux-director",
+      "license": "AGPL-3.0-only",
+      "keywords": [
+        "claude-code",
+        "tmux",
+        "orchestration",
+        "topology"
+      ]
     }
   ]
 }
