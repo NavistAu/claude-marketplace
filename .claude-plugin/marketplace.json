@@ -11,9 +11,11 @@
     {
       "name": "stenographer",
       "source": {
-        "source": "github",
-        "repo": "navistau/claude-stenographer",
-        "path": "plugin"
+        "source": "git-subdir",
+        "url": "https://github.com/navistau/claude-stenographer.git",
+        "path": "plugin",
+        "ref": "v0.4.0",
+        "sha": "a13e3ae8a710746962323d9e2248cb0a808bcd5d"
       },
       "version": "0.4.0",
       "description": "Search past Claude Code conversation history \u2014 find decisions, context, and rationale from earlier sessions",
@@ -30,11 +32,13 @@
     {
       "name": "tmux-bridge",
       "source": {
-        "source": "github",
-        "repo": "navistau/claude-tmux-bridge",
-        "path": "plugin"
+        "source": "git-subdir",
+        "url": "https://github.com/navistau/claude-tmux-bridge.git",
+        "path": "plugin",
+        "ref": "v2.0.1",
+        "sha": "fb3face45bcc87b687ec916cabb9050ccd7e0879"
       },
-      "version": "2.0.0",
+      "version": "2.0.1",
       "description": "Work alongside Claude in your tmux panes \u2014 shared-workspace CLI (tb) with a scope/grant/freshness security model and a secrets vault",
       "homepage": "https://github.com/navistau/claude-tmux-bridge",
       "repository": "https://github.com/navistau/claude-tmux-bridge",
@@ -49,9 +53,11 @@
     {
       "name": "tmux-director",
       "source": {
-        "source": "github",
-        "repo": "navistau/claude-tmux-director",
-        "path": "plugin"
+        "source": "git-subdir",
+        "url": "https://github.com/navistau/claude-tmux-director.git",
+        "path": "plugin",
+        "ref": "v0.1.0",
+        "sha": "9257c63bbf53d2280fd95df9dcae898861bb31b4"
       },
       "version": "0.1.0",
       "description": "Label-addressed tmux fleet topology \u2014 td creates, lists, and culls sessions/windows/panes by stable paths",
