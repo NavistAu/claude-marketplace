@@ -35,10 +35,10 @@
         "source": "git-subdir",
         "url": "https://github.com/navistau/claude-tmux-bridge.git",
         "path": "plugin",
-        "ref": "v2.0.1",
-        "sha": "fb3face45bcc87b687ec916cabb9050ccd7e0879"
+        "ref": "v2.0.2",
+        "sha": "991f82f40021636cfe3bb1808bcd752973995631"
       },
-      "version": "2.0.1",
+      "version": "2.0.2",
       "description": "Work alongside Claude in your tmux panes \u2014 shared-workspace CLI (tb) with a scope/grant/freshness security model and a secrets vault",
       "homepage": "https://github.com/navistau/claude-tmux-bridge",
       "repository": "https://github.com/navistau/claude-tmux-bridge",
@@ -56,10 +56,10 @@
         "source": "git-subdir",
         "url": "https://github.com/navistau/claude-tmux-director.git",
         "path": "plugin",
-        "ref": "v0.1.0",
-        "sha": "9257c63bbf53d2280fd95df9dcae898861bb31b4"
+        "ref": "v0.1.1",
+        "sha": "e8b43b925c0f22dc6bae5a7b01a1d8cf9668afc8"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Label-addressed tmux fleet topology \u2014 td creates, lists, and culls sessions/windows/panes by stable paths",
       "homepage": "https://github.com/navistau/claude-tmux-director",
       "repository": "https://github.com/navistau/claude-tmux-director",
