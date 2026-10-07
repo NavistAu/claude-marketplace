@@ -18,7 +18,7 @@
         "sha": "a13e3ae8a710746962323d9e2248cb0a808bcd5d"
       },
       "version": "0.4.0",
-      "description": "Search past Claude Code conversation history \u2014 find decisions, context, and rationale from earlier sessions",
+      "description": "Search past Claude Code conversation history — find decisions, context, and rationale from earlier sessions",
       "homepage": "https://github.com/navistau/claude-stenographer",
       "repository": "https://github.com/navistau/claude-stenographer",
       "license": "MIT",
@@ -35,11 +35,11 @@
         "source": "git-subdir",
         "url": "https://github.com/navistau/claude-tmux-bridge.git",
         "path": "plugin",
-        "ref": "v2.0.2",
-        "sha": "991f82f40021636cfe3bb1808bcd752973995631"
+        "ref": "v2.0.3",
+        "sha": "13d3b3ace37562d62b14bf28cac5b4e6c36d6058"
       },
-      "version": "2.0.2",
-      "description": "Work alongside Claude in your tmux panes \u2014 shared-workspace CLI (tb) with a scope/grant/freshness security model and a secrets vault",
+      "version": "2.0.3",
+      "description": "Work alongside Claude in your tmux panes — shared-workspace CLI (tb) with a scope/grant/freshness security model and a secrets vault",
       "homepage": "https://github.com/navistau/claude-tmux-bridge",
       "repository": "https://github.com/navistau/claude-tmux-bridge",
       "license": "AGPL-3.0-only",
@@ -56,11 +56,11 @@
         "source": "git-subdir",
         "url": "https://github.com/navistau/claude-tmux-director.git",
         "path": "plugin",
-        "ref": "v0.1.1",
-        "sha": "e8b43b925c0f22dc6bae5a7b01a1d8cf9668afc8"
+        "ref": "v0.1.2",
+        "sha": "c218d4acc00708aa9f0389db01d8878937e51510"
       },
-      "version": "0.1.1",
-      "description": "Label-addressed tmux fleet topology \u2014 td creates, lists, and culls sessions/windows/panes by stable paths",
+      "version": "0.1.2",
+      "description": "Label-addressed tmux fleet topology — td creates, lists, and culls sessions/windows/panes by stable paths",
       "homepage": "https://github.com/navistau/claude-tmux-director",
       "repository": "https://github.com/navistau/claude-tmux-director",
       "license": "AGPL-3.0-only",
